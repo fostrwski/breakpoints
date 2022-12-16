@@ -1,6 +1,6 @@
 # `breakpoints`
 
-Simple code snippet to make working with media queries more simple and enjoyable. Comes in handy in projects that use SCSS
+Simple code snippet to make working with media queries easier and enjoyable. Comes in handy in projects that use SCSS
 
 ## Usage
 

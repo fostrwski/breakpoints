@@ -26,6 +26,8 @@ You can import this snippet wherever you want - in your main file containing all
 Then you can use it like so
 
 ```scss
+@import "breakpoints";
+
 ...
 @include breakpoint("md") {
   // Your styling for "md" breakpoint goes here

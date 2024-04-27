@@ -1,6 +1,6 @@
 # `breakpoints`
 
-Simple code snippet to make working with media queries easier and more enjoyable. Comes in handy in projects that use SCSS
+Simple code snippet to make working with media queries easier and more enjoyable. Comes in handy in projects that use SCSS.
 
 ## Usage
 
@@ -23,7 +23,7 @@ You can import this snippet wherever you want - in your main file containing all
 }
 ```
 
-Then you can use it like so
+Then you can use it like so:
 
 ```scss
 @import "breakpoints";
